@@ -1,7 +1,7 @@
 class Prodects {
   int? id;
   String? title;
-  int? price;
+  int?price;
   String? description;
   List<String>? images;
   String? creationAt;
